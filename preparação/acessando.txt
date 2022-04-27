@@ -31,3 +31,5 @@ a. Liste apenas os clientes que fizeram pedidos (com repetidos)
 b. Liste apenas os clientes que fizeram pedidos (sem repetidos)
 c. Liste apenas os clientes que fizeram pedidos (sem repetidos, mas com total de pedidos que cada um fez)
 d. Liste apenas os clientes que que não fizeram pedidos
+
+SUM() : soma

@@ -3,10 +3,23 @@ sql e não sql
 
 entender o problema > resolver o problema
 
+Recursos Avançados de Banco de dados
 
+SGBD  SQL (DDL, DML, DQL, DCL)
+DQL Queries Views(Relatórios)
+Funções
+Procedimento
+Gatilhos
+-------------------------------------------------
+primari key = campo indexiado
 
+pra que serve um indice: deixar uma consulta mais rapida
+-------------------------------------------------
+dash bard,
 
+conhecimento, habilidade e atitude
+aprender, entender, aplicar
 
-
-
+select, *, from, where, like, delete, insert, into, join, update, on, group by,
+pq tem o c. ou p.
 
